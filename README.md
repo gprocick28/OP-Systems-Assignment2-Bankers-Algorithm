@@ -3,6 +3,6 @@ This program implements the Banker's Algorithm for resource allocation and deadl
 ## Compilation Instructions
 * bankers.cpp can be compiled using the following command in a terminal: g++ bankers.cpp -o bankers
 ## Execution Instructions
-Once compiled, the program can be executed using the following command in a terminal: ./bankers
+* Once compiled, the program can be executed using the following command in a terminal: ./bankers
 ## Author
 Gavin Procick
